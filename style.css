@@ -311,7 +311,10 @@ article .icon {
   flex-wrap: wrap;
 }
 
-
+.details-container div img {
+  width: 250px;
+  height: 250px;
+}
 
 
 
